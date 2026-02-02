@@ -1,0 +1,12 @@
+{
+    "ID": "45259A063445439496B0304B9F107B63",
+    "ActionKeyword": "TemplateKeyword",
+    "Name": "TemplatePlugin",
+    "Description": "TemplateDescription",
+    "Author": "TemplateAuthor",
+    "Version": "1.0.0",
+    "Language": "csharp",
+    "Website": "https://github.com/TemplateAuthor/Flow.Launcher.Plugin.TemplatePlugin",
+    "IcoPath": "icon.png",
+    "ExecuteFileName": "Flow.Launcher.Plugin.TemplatePlugin.dll"
+}
